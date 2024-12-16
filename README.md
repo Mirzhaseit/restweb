@@ -512,8 +512,8 @@ styless.css
 
 
 
-## OUTPUT:
-![alt text](1st.png)
+##OUTPUT:
+![alt text](<1st (2).png>)
 ![alt text](2nd.png)
 ![alt text](3rd.png)
 ![alt text](4th.png)
